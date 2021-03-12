@@ -27,7 +27,7 @@
         <link rel="stylesheet" type="text/css" href="Login/vendor/select2/select2.min.css">
         <!--===============================================================================================-->
         <link rel="stylesheet" type="text/css" href="Login/css/util.css">
-        <link rel="stylesheet" type="text/css" href="Login/cssd/main.css">
+        <link rel="stylesheet" type="text/css" href="Login/css/main.css">
         <!--===============================================================================================-->
         <!-- Site CSS -->
         <link rel="stylesheet" href="css/style.css">
