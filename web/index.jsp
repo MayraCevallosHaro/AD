@@ -11,7 +11,7 @@
         <title>CycleShop | Tienda Online</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!--===============================================================================================-->	
+        <!--==========================================cAMBIO=====================================================-->	
         <link rel="icon" type="image/png" href="Login/images/icons/favicon.ico"/>
         <!--===============================================================================================-->
         <link rel="stylesheet" type="text/css" href="Login/vendor/bootstrap/css/bootstrap.min.css">
